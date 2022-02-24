@@ -1,0 +1,15 @@
+/home/vbm/repo/SinCosTan/bin/Debug/net6.0/SinCosTan
+/home/vbm/repo/SinCosTan/bin/Debug/net6.0/SinCosTan.deps.json
+/home/vbm/repo/SinCosTan/bin/Debug/net6.0/SinCosTan.runtimeconfig.json
+/home/vbm/repo/SinCosTan/bin/Debug/net6.0/SinCosTan.dll
+/home/vbm/repo/SinCosTan/bin/Debug/net6.0/ref/SinCosTan.dll
+/home/vbm/repo/SinCosTan/bin/Debug/net6.0/SinCosTan.pdb
+/home/vbm/repo/SinCosTan/obj/Debug/net6.0/SinCosTan.csproj.AssemblyReference.cache
+/home/vbm/repo/SinCosTan/obj/Debug/net6.0/SinCosTan.GeneratedMSBuildEditorConfig.editorconfig
+/home/vbm/repo/SinCosTan/obj/Debug/net6.0/SinCosTan.AssemblyInfoInputs.cache
+/home/vbm/repo/SinCosTan/obj/Debug/net6.0/SinCosTan.AssemblyInfo.cs
+/home/vbm/repo/SinCosTan/obj/Debug/net6.0/SinCosTan.csproj.CoreCompileInputs.cache
+/home/vbm/repo/SinCosTan/obj/Debug/net6.0/SinCosTan.dll
+/home/vbm/repo/SinCosTan/obj/Debug/net6.0/ref/SinCosTan.dll
+/home/vbm/repo/SinCosTan/obj/Debug/net6.0/SinCosTan.pdb
+/home/vbm/repo/SinCosTan/obj/Debug/net6.0/SinCosTan.genruntimeconfig.cache
