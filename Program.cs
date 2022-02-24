@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SinCosTan
+﻿namespace SinCosTan
 {
     class Trekanter
     {
@@ -25,8 +23,7 @@ namespace SinCosTan
         public static void GetLengths()
         {
             Console.Write("Enter known : ");
-            if(Console.ReadLine() == null){return;}
-            string input = Console.ReadLine();
+            string ?input = Console.ReadLine();
             double hyp = 0; double mot = 0; double hos = 0;
 
             if(input == "hyp")
@@ -46,7 +43,10 @@ namespace SinCosTan
                 Console.Write("Enter hos : "); hos = Convert.ToDouble(Console.ReadLine());
                 hyp = hos / Math.Cos(Math.PI * GetDegrees() / 180);
                 mot = Math.Sqrt(hyp*hyp - hos*hos);
-            }else{Console.WriteLine("Invalid name for known.");
+            }
+            else
+            {
+                Console.WriteLine("Invalid name for known.");
             }
             Console.WriteLine("hyp = "+Math.Round(hyp,3)+"\nmot = "+Math.Round(mot,3)+"\nhos = "+Math.Round(hos,3));
             return;
