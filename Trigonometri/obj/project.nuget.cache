@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvwvkQLDieQ73ceKwaWILlYwzrTdy4K36W+oDVIGnTpU/2f9sxSg6uYnHSiuunSiYxhvTMMxTGHCCQwAyO07nw==",
+  "success": true,
+  "projectFilePath": "/home/vbm/repo/Trigonometri/Trigonometri.csproj",
+  "expectedPackageFiles": [
+    "/home/vbm/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
